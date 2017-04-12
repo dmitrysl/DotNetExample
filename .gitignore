@@ -1,0 +1,16 @@
+# VisualStudio
+.vs
+packages
+bin
+obj
+
+# IntelliJ
+#
+.idea
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log

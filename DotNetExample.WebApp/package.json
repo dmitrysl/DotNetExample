@@ -1,0 +1,31 @@
+{
+  "name": "DotNetExample-webapp",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "~2.4.10",
+    "@angular/compiler": "~2.4.10",
+    "@angular/core": "~2.4.10",
+    "@angular/forms": "~2.4.10",
+    "@angular/http": "~2.4.10",
+    "@angular/platform-browser": "~2.4.10",
+    "@angular/platform-browser-dynamic": "~2.4.10",
+    "@angular/router": "~3.4.10",
+    "@angular/upgrade": "~2.4.10",
+    "angular2-fontawesome": "^0.8.0",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.2.0",
+    "systemjs": "0.19.39",
+    "zone.js": "^0.8.4"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "typescript": "^2.0.3",
+    "typings": "^2.1.0"
+  }
+}
